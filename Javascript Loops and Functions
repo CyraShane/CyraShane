@@ -25,10 +25,10 @@ function getTotalSupply() {
     console.log("\n" + NFTs.length);
 }
 
-mintNFT("Cyra", "20", "Manila", "Female");
-mintNFT("Shane", "18", "Palawan", "Prefer not to say");
-mintNFT("Remontal", "19", "Batangas", "Female");
-mintNFT("Perez", "21", "Ilocos", "Male");
+mintNFT("Anna", "20", "Manila", "Female");
+mintNFT("Belle", "18", "Palawan", "Prefer not to say");
+mintNFT("Cathy", "19", "Batangas", "Female");
+mintNFT("Dorothy", "21", "Ilocos", "Male");
 
 listNFTs();
 getTotalSupply();
